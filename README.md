@@ -3,4 +3,4 @@
 
 Para compilar: gcc -o main main.c btree.c
 
-Para adicionar mais intens basta modificar o arquivo
+Para adicionar mais itens basta modificar o arquivo
