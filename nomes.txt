@@ -1,0 +1,13 @@
+Miguel 9
+Joel 5
+Maria 6
+Felipe 8
+Carlos 12
+Samuel 15
+Rafael 88
+Everson 77
+Leticia 99
+Cristina 1
+Valdomiro 2
+Garreta 3
+Eduardo 4
